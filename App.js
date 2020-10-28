@@ -12,7 +12,7 @@ export default function App() {
     // <SearchScreen />
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Home" component={SearchScreen} />
+        <Stack.Screen name="BussinessSearch" component={SearchScreen} />
       </Stack.Navigator>
     </NavigationContainer>
     // <View style={styles.container}>
