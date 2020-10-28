@@ -1,8 +1,8 @@
-import React from "react";
-import { createStackNavigator } from "@react-navigation/stack";
-import { NavigationContainer } from "@react-navigation/native";
-import SearchScreen from "../screens/SearchScreen";
-import TestScreen from "../screens/TextScreen";
+import React from 'react';
+import { createStackNavigator } from '@react-navigation/stack';
+import { NavigationContainer } from '@react-navigation/native';
+import SearchScreen from '../screens/SearchScreen';
+import TestScreen from '../screens/TextScreen';
 
 const Stack = createStackNavigator();
 
